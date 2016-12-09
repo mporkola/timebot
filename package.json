@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "botkit": "^0.4.3"
+    "botkit": "^0.4.3",
+    "botkit-storage-redis": "^1.1.0"
   }
 }
